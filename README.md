@@ -6,7 +6,7 @@
 
 欢迎来到这个特别的 GitHub 仓库！🎉
 
-**此仓库专门用于练习 GitHub Flow。** 它是我（或我们）学习和掌握 Git 版本控制以及 GitHub 协作流程的实验田。在这里，你将看到我们如何从一个想法开始，通过分支（Branching）、提交（Committing）、拉取请求（Pull Request）、代码审查（Code Review）和合并（Merging）等步骤，最终将代码部署到生产环境（或模拟生产环境）。
+**此仓库专门用于练习 GitHub Flow。** 它是我学习和掌握 Git 版本控制以及 GitHub 协作流程的实验田。在这里，你将看到我们如何从一个想法开始，通过分支（Branching）、提交（Committing）、拉取请求（Pull Request）、代码审查（Code Review）和合并（Merging）等步骤，最终将代码部署到生产环境（或模拟生产环境）。
 
 无论你是 Git 初学者，还是希望巩固 GitHub 最佳实践的开发者，这个仓库都将提供一个实际操作的平台。
 
@@ -63,13 +63,8 @@
 
 ## 🤝 贡献者 (Contributors)
 
-* [@你的GitHub用户名](https://github.com/你的GitHub用户名) - 初始设置 & 主要贡献者
+* [@Z-011125) - 初始设置 & 主要贡献者
 
----
-
-## 📄 许可证 (License)
-
-本项目采用 [MIT License](LICENSE) 开源。
 
 ---
 
